@@ -1,9 +1,9 @@
 <div align="center">
 
 # / an1zy .dev
-### Software Engineer · Autonomous Agents · Desktop & Systems Architecture
+**Software Developer**
 
-*Started out writing simple Python bots & scripts — now building autonomous terminal agents, desktop audio engines, and real-time Discord infrastructure.*
+*Started with simple bots and scripts — now building autonomous terminal agents, desktop audio apps, and Discord tooling.*
 
 <br/>
 
@@ -15,31 +15,22 @@
 
 ---
 
-### 🚀 What I Build
+### Projects
 
-I love crafting high-performance, aesthetically pleasing software — from low-latency background daemons to full-featured terminal user interfaces (TUIs) and autonomous AI coding agents:
+- **[anixcode](https://github.com/an1zy/anixcode)** — terminal AI coding agent with approvals, diffs, checkpoints, and TUI. Available on PyPI (`pip install anixcode`).
+- **[anix](https://github.com/an1zy/anix)** — desktop SoundCloud player with synced lyrics, ambient glow, and Discord RPC.
+- **[ai-rpc](https://github.com/an1zy/ai-rpc)** — real-time Discord Rich Presence for AI coding assistants and LLMs.
+- **[prism-discord](https://github.com/an1zy/prism-discord)** — Discord bot suite with interactive modals, ticket transcripts, and tray daemon.
+- **[anix-llm](https://github.com/an1zy/anix-llm)** — local LLM router and free model scanner.
+- **[spectre-discord](https://github.com/an1zy/spectre-discord)** — Discord activity and badge virtualization engine.
 
-- 🤖 **[ANIX Code](https://github.com/an1zy/anixcode)** — Autonomous AI coding agent for the terminal. Features a custom Textual TUI, function calling, safe command diffs, SQLite-backed checkpoints with `/undo` and `/redo`, and context auto-compaction. Available on PyPI (`pip install anixcode`).
-- 🎵 **[ANIX Player](https://github.com/an1zy/anix)** — Minimalist, high-performance desktop SoundCloud player with real-time time-synced lyrics, reactive ambient aura glow, and Discord RPC.
-- ⚡ **[AI-RPC](https://github.com/an1zy/ai-rpc)** — Real-time Discord Rich Presence daemon for AI coding assistants and LLMs (Claude Code, Cursor, Windsurf, Aider, ANIX Code).
-- 🛡️ **[PRISM](https://github.com/an1zy/prism-discord)** — Discord Bot Management & Control Suite with interactive Modals, HTML ticket transcripts, AutoMod, and a 24/7 Windows System Tray background daemon.
-- 🧠 **[ANIX LLM](https://github.com/an1zy/anix-llm)** — Unified LLM router with autonomous free drops radar and zero-setup local intelligence.
-- 🔮 **[Spectre Discord](https://github.com/an1zy/spectre-discord)** — High-performance Discord activity & badge virtualization engine.
+### Stack
 
----
-
-### 🛠️ Tech & Craft
-
-- **Languages & Core:** Python (Asyncio, High-Concurrency), TypeScript / JavaScript, Windows Win32 API
-- **UI & Desktop:** Textual (TUI & Terminal Apps), Rich, Desktop GUI Frameworks, System Tray daemons
-- **AI & Agentic Workflows:** LLM Tool Calling (Function Calling), Streaming APIs, Prompt Architecture, Token Compaction
-- **Protocols & Networking:** Discord Gateway & RPC, WebSockets, HTTPX / Aiohttp, Reverse Engineering
-- **Storage & State:** SQLite, PostgreSQL, File Snapshots & Checkpoints
+- **Core:** Python, asyncio, Win32 API
+- **Interfaces:** Textual (TUI), Rich, desktop GUIs
+- **Protocols & Systems:** Discord Gateway & RPC, WebSockets, LLM function calling
+- **Databases:** SQLite, PostgreSQL
 
 ---
 
-### 💬 Feedback & Let's Talk!
-
-I'm always excited to hear feedback, ideas, or thoughts about my projects! Whether you tried **ANIX Code**, tested a feature, found an edge case, or just want to chat about AI agents, desktop apps, or dev:
-
-👉 Drop me a message on Telegram: **[@an1zy](https://t.me/an1zy)** — DMs are always open!
+Always open to feedback and ideas about my projects. Feel free to reach out on Telegram: [@an1zy](https://t.me/an1zy).
