@@ -11,6 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-an1zy-white?style=for-the-badge&logo=github&logoColor=141414)](https://github.com/an1zy)
 [![PyPI](https://img.shields.io/badge/PyPI-anix--type-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/anix-type/)
 [![PyPI](https://img.shields.io/badge/PyPI-anixcode-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/anixcode/)
+[![PyPI](https://img.shields.io/badge/PyPI-anix--ctx-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/anix-ctx/)
 
 </div>
 
@@ -18,6 +19,7 @@
 
 ### Projects
 
+- **[anix-ctx](https://github.com/an1zy/anix-ctx)** — interactive LLM context packager with dark neon TUI and instant clipboard sync. Available on PyPI (pip install anix-ctx).
 - **[anix-type](https://github.com/an1zy/anix-type)** — context-aware shell autocompletion and natural language command forge daemon. Available on PyPI (`pip install anix-type`).
 - **[anixcode](https://github.com/an1zy/anixcode)** — terminal AI coding agent with approvals, diffs, checkpoints, and TUI. Available on PyPI (`pip install anixcode`).
 - **[anix](https://github.com/an1zy/anix)** — desktop SoundCloud player with synced lyrics, ambient glow, and Discord RPC.
